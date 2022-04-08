@@ -1,4 +1,4 @@
-#Google Firebase api token generator
+Google Firebase api token generator
 
 Simple mavenized project to generate Firebase API access tokens. 
 
